@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Encrypted Chat App</string>
+    <string name="get_key">Get Key</string>
+    <string name="encrypt">Encrypt</string>
+    <string name="decrypt">Decrypt</string>
+    <string name="plaintext">Enter Plain Text</string>
+</resources>
